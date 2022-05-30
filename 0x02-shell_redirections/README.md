@@ -11,3 +11,4 @@ script that writes into the file ls_cwd_content the result of the command ls -la
 cript that deletes all the regular files (not the directories) with a js
 script that counts the number of directories and sub-directories in the current directory
 what's new
+a script that takes a list of words as input and prints only words that appear exactly once
