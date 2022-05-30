@@ -16,3 +16,4 @@ lines containing apattern
 Display the number of lines that contain the pattern 
 files containing a pattern and 3 lines after them
  lines that dont contain pattern bin
+lines that with a letter
