@@ -12,3 +12,4 @@ cript that deletes all the regular files (not the directories) with a js
 script that counts the number of directories and sub-directories in the current directory
 what's new
 a script that takes a list of words as input and prints only words that appear exactly once
+lines containing apattern
