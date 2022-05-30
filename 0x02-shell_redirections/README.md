@@ -18,3 +18,4 @@ files containing a pattern and 3 lines after them
  lines that dont contain pattern bin
 lines that with a letter
 replacing
+removes letters
