@@ -21,3 +21,4 @@ replacing
 removes letters
 reverse inputs
 script that displays all users and their home directories, sorted by users
+empty cask
