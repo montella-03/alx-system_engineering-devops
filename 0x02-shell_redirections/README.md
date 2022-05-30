@@ -10,3 +10,4 @@ script that writes into the file ls_cwd_content the result of the command ls -la
  script that duplicates the last line of the file iacta
 cript that deletes all the regular files (not the directories) with a js
 script that counts the number of directories and sub-directories in the current directory
+what's new
