@@ -4,3 +4,4 @@ scripts that add  path to success is to take massive, determined action
 script that counts the number of directories in the PATH
 script that lists environment variables
 script that lists all local variables and environment variables, and functions
+script that creates a new local variable.
